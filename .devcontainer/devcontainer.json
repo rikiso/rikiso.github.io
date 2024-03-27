@@ -7,5 +7,5 @@
 			"target": "${containerWorkspaceFolder}/node_modules"
 		}
 	],
-	"postCreateCommand": "sudo chown -R node:node /workspaces/rikiso.github.io/node_modules && yarn install"
+	"postCreateCommand": "sudo chown -R node:node /workspaces/rikiso.github.io && yarn install"
 }
