@@ -1,4 +1,13 @@
 baseURL = 'https://rikiso.github.io/'
 languageCode = 'ja-jp'
 title = '理基礎教'
-theme = 'ananke'
+
+[module]
+    [[module.imports]]
+        path = 'github.com/nanxiaobei/hugo-paper'
+
+[params]
+  color = 'gray'
+  github = 'rikiso/rikiso.github.io'
+  rss = true
+  monoDarkIcon = true
