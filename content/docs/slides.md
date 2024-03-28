@@ -25,18 +25,18 @@ weight: 4
 - グラフがクソ
 - アニメーションがある
 
-{{< hint >}}
+{{< tip >}}
 [早稲田大学 早水桃子研究室 PowerPointスライド作成実演ライブ ①必修編](https://www.youtube.com/watch?v=zMp3BrIakOY&feature=youtu.be)
-{{< /hint >}}
+{{< /tip >}}
 
 ## 第 17 条
 
 グループのメンバーに任せたスライドは基本完成しないものと思え．
 自分ひとりで全部作れるくらいの余裕をもって臨むべし．
 
-{{< hint >}}
+{{< tip >}}
 [90対90の法則](https://ja.wikipedia.org/wiki/90%E5%AF%BE90%E3%81%AE%E6%B3%95%E5%89%87)
-{{< /hint >}}
+{{< /tip >}}
 
 ## 第 18 条
 
