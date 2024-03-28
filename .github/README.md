@@ -77,7 +77,7 @@
 
 ## 利用方法
 
-[こちら](docs/teachings.md) をご覧ください．
+[こちら](https://rikiso.github.io/) をご覧ください．
 
 ## 免責事項
 

@@ -1,6 +1,6 @@
 ---
-title: "理基礎教"
-date: 2024-03-28T06:07:27Z
+title: "教典"
+date: 2024-03-28
 draft: false
 ---
 
