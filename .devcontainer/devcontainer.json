@@ -1,11 +1,4 @@
 {
-	"name": "Node.js & TypeScript",
-	"image": "mcr.microsoft.com/devcontainers/typescript-node:1-20-bullseye",
-	"mounts": [
-		{
-			"type": "volume",
-			"target": "${containerWorkspaceFolder}/node_modules"
-		}
-	],
-	"postCreateCommand": "sudo chown -R node:node /workspaces/rikiso.github.io && yarn install"
+	"name": "Go",
+	"image": "mcr.microsoft.com/devcontainers/go:1-1.22-bookworm"
 }
