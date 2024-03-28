@@ -1,0 +1,4 @@
+baseURL = 'https://rikiso.github.io/'
+languageCode = 'ja-jp'
+title = '理基礎教'
+theme = 'ananke'
