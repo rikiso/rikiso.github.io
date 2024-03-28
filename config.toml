@@ -4,9 +4,11 @@ title = '理基礎教'
 theme = "paper"
 
 [params]
-  color = 'gray'
+  color = 'linen'
+
   github = 'rikiso/rikiso.github.io'
   rss = true
+
   monoDarkIcon = true
 
 [menu]

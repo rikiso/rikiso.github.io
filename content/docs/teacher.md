@@ -19,6 +19,7 @@ weight: 7
 積極的に船瀬先生を喜ばせよ．
 ネタに走ることを怠ることなかれ．
 
-> Tips
-> [酒](https://ja.wikipedia.org/wiki/%E9%85%92),
-> [陰謀論](https://ja.wikipedia.org/wiki/%E9%99%B0%E8%AC%80%E8%AB%96)
+{{< hint >}}
+[酒](https://ja.wikipedia.org/wiki/%E9%85%92),
+[陰謀論](https://ja.wikipedia.org/wiki/%E9%99%B0%E8%AC%80%E8%AB%96)
+{{< /hint >}}

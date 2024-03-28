@@ -9,8 +9,9 @@ weight: 2
 
 グループのメンバーは，これを愛すべし．
 
-> Tips
-> [ピグマリオン効果](https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B0%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3%E5%8A%B9%E6%9E%9C)
+{{< note >}}
+[ピグマリオン効果](https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B0%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3%E5%8A%B9%E6%9E%9C)
+{{< /note >}}
 
 ## 第 4 条
 
@@ -25,9 +26,10 @@ weight: 2
 グループの主導権を握るべし．
 最初は率先して頑張り，グループのメンバーに好印象を与えるべし．
 
-> Tips
-> [返報性の原理](https://ja.wikipedia.org/wiki/%E8%BF%94%E5%A0%B1%E6%80%A7%E3%81%AE%E5%8E%9F%E7%90%86),
-> [囚人のジレンマ](https://ja.wikipedia.org/wiki/%E5%9B%9A%E4%BA%BA%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E)
+{{< note >}}
+[返報性の原理](https://ja.wikipedia.org/wiki/%E8%BF%94%E5%A0%B1%E6%80%A7%E3%81%AE%E5%8E%9F%E7%90%86),
+[囚人のジレンマ](https://ja.wikipedia.org/wiki/%E5%9B%9A%E4%BA%BA%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E)
+{{< /note >}}
 
 ## 第 7 条
 
@@ -37,8 +39,9 @@ weight: 2
 
 グループのメンバーの目標意識を，課題ではなく良いスライドを作ることに向けさせるべし．
 
-> Tips
-> [サマーキャンプ実験](https://www.blog.crn.or.jp/report/02/153.html)
+{{< note >}}
+[サマーキャンプ実験](https://www.blog.crn.or.jp/report/02/153.html)
+{{< /note >}}
 
 ## 第 9 条
 

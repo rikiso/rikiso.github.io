@@ -11,8 +11,9 @@ weight: 3
 文章だけでは伝わらないことがある．
 テキストチャットを過信することなかれ．
 
-> Tips
-> [単純接触効果](https://ja.wikipedia.org/wiki/%E5%8D%98%E7%B4%94%E6%8E%A5%E8%A7%A6%E5%8A%B9%E6%9E%9C)
+{{< note >}}
+[単純接触効果](https://ja.wikipedia.org/wiki/%E5%8D%98%E7%B4%94%E6%8E%A5%E8%A7%A6%E5%8A%B9%E6%9E%9C)
+{{< /note >}}
 
 ## 第 12 条
 
