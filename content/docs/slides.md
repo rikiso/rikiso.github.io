@@ -26,7 +26,7 @@ weight: 4
 - アニメーションがある
 
 {{< tip >}}
-[早稲田大学 早水桃子研究室 PowerPointスライド作成実演ライブ ①必修編](https://www.youtube.com/watch?v=zMp3BrIakOY&feature=youtu.be)
+[早稲田大学 早水桃子研究室 PowerPoint スライド作成実演ライブ ① 必修編](https://www.youtube.com/watch?v=zMp3BrIakOY&feature=youtu.be)
 {{< /tip >}}
 
 ## 第 17 条
@@ -35,7 +35,7 @@ weight: 4
 自分ひとりで全部作れるくらいの余裕をもって臨むべし．
 
 {{< tip >}}
-[90対90の法則](https://ja.wikipedia.org/wiki/90%E5%AF%BE90%E3%81%AE%E6%B3%95%E5%89%87)
+[90 対 90 の法則](https://ja.wikipedia.org/wiki/90%E5%AF%BE90%E3%81%AE%E6%B3%95%E5%89%87)
 {{< /tip >}}
 
 ## 第 18 条
